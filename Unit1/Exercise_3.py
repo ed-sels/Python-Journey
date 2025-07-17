@@ -12,5 +12,5 @@ print("finnal_salary :", final_salary)
 a = 300
 b = float(a)
 
-print("a:" , a)
-print("a:" , b)
+print("a:" , a, type(a))
+print("a:" , b, type(b))
