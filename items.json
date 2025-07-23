@@ -1,1 +1,7 @@
-{"Cocoa": 4}
+{
+    "Cocoa": {
+        "quantity": 3,
+        "batch_no": 234,
+        "expiry_year": 2025
+    }
+}
